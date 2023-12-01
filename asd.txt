@@ -23,3 +23,5 @@
 23. int i=0; while (i<10) ++j; if (j<i) cout << "Success!\n";
 24. int x = 4; double d = 5/(x–2); if (d=2*x+0.5) cout << "Success!\n";
 25. cin << "Success!\n";
+
+szia
